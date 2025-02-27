@@ -1,6 +1,5 @@
-# Stats
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=Therealpeppy-YT&show_icons=true&theme=omni" /></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=therealpyppy&show_icons=true&theme=omni" /></div>
 
-## -- Activities --
-* Learning C
-* Learning how to use Git properly
+## me
+* CS 1 freshman :\
+* valorant is cool
