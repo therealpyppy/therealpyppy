@@ -1,6 +1,6 @@
 <div align="center"> 
   <h1>CS 1 freshman :\</h1>
-  ⏳ Countdown: {{COUNTDOWN}} days until my summer! 🎉🎊
+  ⏳ Countdown: 22 days until my summer! 🎉🎊
 </div>
 
 <div align="center">
