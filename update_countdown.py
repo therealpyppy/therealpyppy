@@ -1,6 +1,6 @@
 from datetime import datetime, timedelta
 
-today = datetime.utcnow().date()
+today = datetime.today().date()
 target = datetime(today.year, 5, 29).date()
 if today > target:
     target = datetime(today.year + 1, 5, 29).date()
