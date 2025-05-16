@@ -14,6 +14,7 @@ afterContent = "} days until my summer break! 🎉🎊\n</div>\n\n<div align=\"c
 
 new_content = content.replace(
     content.split("{")[1]+afterContent, str(days_left)
+)
 
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(new_content)
