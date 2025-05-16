@@ -11,7 +11,7 @@ with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
 
 new_content = content.replace(
-    "{{COUNTDOWN}}", str(days_left)
+    content.split("{")[1], str(days_left)
 )
 
 with open("README.md", "w", encoding="utf-8") as f:
