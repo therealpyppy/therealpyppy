@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h1>CS Freshman — Iain Fox</h1>
+  <h1>CS Freshman - Iain Fox</h1>
   <p>Hey there! I'm Iain, a Computer Science student.</p>
 
   <h3>🛠️ Languages & Tools</h3>
