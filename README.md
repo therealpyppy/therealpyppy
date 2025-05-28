@@ -7,7 +7,7 @@
     • Python 🐍<br>
     • Learning Rust 🦀<br>
 
-  <p>⏳ Only <strong>{2} days until my summer break! 🎉🎊
+  <p>⏳ Only <strong>{1} days until my summer break! 🎉🎊
 </div>
 
 <div align="center">
