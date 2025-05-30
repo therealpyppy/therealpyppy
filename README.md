@@ -1,13 +1,11 @@
 <div align="center"> 
-  <h1>CS Freshman - Iain Fox</h1>
-  <p>Hey there! I'm Iain, a Computer Science student.</p>
+  <h1>CS Freshman/Rising Sophomore - Iain Fox</h1>
+  <p>Hey there! My name's Iain, and I'm a high school Computer Science student exploring different parts of development to find what I enjoy. Right now, full-stack development is intriguing me as I develop my own custom Minecraft launcher from scratch.</p>
 
-  <h3>🛠️ Languages & Tools</h3>
+  <h3>🛠️ Languages</h3>
     • JavaScript ☕📜<br>
     • Python 🐍<br>
     • Learning Rust 🦀<br>
-
-  <p>⏳ Only <strong>{364} days until my summer break! 🎉🎊
 </div>
 
 <div align="center">
