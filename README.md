@@ -10,7 +10,7 @@ I'm a high school Computer Science student exploring different parts of Software
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logoColor=white)](https://therealpyppy.github.io/)
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on...\
-My portfolio website and a Roblox typing game\
+My portfolio website and some fun roblox side projects\
 🧠 I'm currently learning...\
 Rust and React!\
 📫 How to reach me...\
